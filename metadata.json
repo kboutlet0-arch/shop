@@ -1,0 +1,8 @@
+{
+  "name": "KB-OUTLET",
+  "description": "Boutique en ligne KB-OUTLET — Commerce moderne, paiements sécurisés en Gambie (Wave, QMoney, AfriMoney), suivi de commande en temps réel et tableau de bord analytique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
